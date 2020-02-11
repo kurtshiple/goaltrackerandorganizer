@@ -1,0 +1,2 @@
+# goaltrackerandorganizer
+The goal of this project is to develop a useful goal tracking and organizing web app. It sould be able to hold large amounts of data in a database and visualize it on the frontend as well. The technologies I plan to use are python-flask with SQL-Alchemy to connect to a MySQL database and then HTML, CSS, and JavaScript for the front end. I want to add a login system as well to keep the data secure and if any of my friends want to use it.
